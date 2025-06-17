@@ -1,5 +1,5 @@
 # About Me:
-goals over winter: 1x personal projects 1x open-source contribution daily leetcode practice<br>interested in finance startups<br>learning about ML and AI at unimelb
+goals over winter: 1x personal project 1x open-source contribution 1x full stack web app<br>interested in finance startups<br>learning about ML and AI at unimelb
 
 check out my personal projects - working on more over winter
 
