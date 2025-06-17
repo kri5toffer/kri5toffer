@@ -1,4 +1,4 @@
-# Hi There :
+# Hi There 👋
 
 👨‍💻 Here I will be building my portfolio as a Master's SWE student.
 
