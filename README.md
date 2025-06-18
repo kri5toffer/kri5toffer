@@ -4,9 +4,9 @@
 
 The philosophy is simple to not just build but to learn and build to my highest standard.
 
-I want to follow this for all projects so that there is purpose in the development, making every next step easier.
+I want to follow this for all projects so that there is purpose in the development, making every next step and project easier.
 
-I will read docs and understand before using and use AI tools, but never outsource my thinking.
+I will read docs and understand fully before using them and use AI tools to help my progress, but will never outsource my own thinking.
 
 Even if no one is watching, I will hold myself to it.
 
