@@ -16,7 +16,7 @@ goals over winter:
 - 1x open-source contribution
 - 1x full stack web app
 
-interested in startups and finance | learning about ML and AI at unimelb
+learning about ML and AI at unimelb
 
 - 📫 How to reach me: chris.siang123@gmail.com 
 
