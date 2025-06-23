@@ -1,6 +1,11 @@
 # Hi There 👋
 
+I am a Data Science and Business Analytics student at Monash University.
+
+
 👨‍💻 Here I will be building my portfolio as a Master's SWE student.
+
+I'm currently studying full time. In my free time, I work on passion projects (in sports/cycling) and what I find interesting on the web.
 
 The philosophy is simple to not just build but to learn and build to my highest standard.
 
