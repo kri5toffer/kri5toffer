@@ -1,7 +1,5 @@
 # Hi There 👋
 
-I am a Data Science and Business Analytics student at Monash University.
-
 
 👨‍💻 Here I will be building my portfolio as a Master's SWE student.
 
