@@ -9,13 +9,9 @@ The philosophy is simple to not just build but to learn and build to my highest 
 
 I want to follow this for all projects so that there is purpose in the development, making every next step and project easier.
 
-I will read docs and understand fully before using them and use AI tools to help my progress, but will never outsource my own thinking.
-
-Even if no one is watching, I will hold myself to it.
-
 goals over winter: 
 - 1x personal website
-~~- 1x personal project~~
+- ~~- 1x personal project~~
 - 1x open-source contribution
 - 1x full stack web app
 
