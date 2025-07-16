@@ -11,7 +11,7 @@ I want to follow this for all projects so that there is purpose in the developme
 
 goals over winter: 
 - ~~1x personal website~~
-- ~~- 1x personal project~~
+- ~~1x personal project~~
 - 1x open-source contribution
 - 1x full stack web app
 
