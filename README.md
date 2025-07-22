@@ -5,15 +5,11 @@
 
 I'm currently studying full time. In my free time, I work on passion projects (in sports/cycling) and what I find interesting on the web.
 
-The philosophy is simple to not just build but to learn and build to my highest standard.
-
-I want to follow this for all projects so that there is purpose in the development, making every next step and project easier.
-
 goals over winter: 
 - ~~1x personal website~~
 - ~~1x personal project~~
 - 1x open-source contribution
-- 1x full stack web app
+- ~~1x full stack project~~
 
 learning about ML and AI at unimelb
 
